@@ -1,3 +1,6 @@
+permissions:
+  contents: write
+  
 name: Update Gallery Data
 
 on:
@@ -28,5 +31,5 @@ jobs:
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
           git add gallery-data.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update gallery data"
-          git push
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update gallery data" && git push)
+        continue-on-error: true

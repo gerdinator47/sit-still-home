@@ -1,4 +1,55 @@
 {
-  "lastUpdated": "2026-08-01T01:56:15.200Z",
-  "images": []
+  "lastUpdated": "2026-09-01T02:42:11.836Z",
+  "images": [
+    {
+      "imageUrl": "==typeof globalThis&&globalThis",
+      "title": "a",
+      "description": "==typeof window&&window"
+    },
+    {
+      "imageUrl": "Object.is",
+      "title": "function(a){return a?a:function(b",
+      "description": "Array.prototype.includes"
+    },
+    {
+      "imageUrl": "String.prototype.includes",
+      "title": "function(a){return a?a:function(b",
+      "description": "The 'this' value for String.prototype.includes must not be null or undefined\");if(b instanceof RegExp)throw new TypeError(\"First argument to String.prototype.includes must not be a regular expression\");return this.indexOf(b,c||0)!==-1}});function r(a,b,c){a(\"https://csp.withgoogle.com/csp/proto/\"+encodeURIComponent(b),JSON.stringify(c))}function t(){var a;if((a=window.ppConfig)==null?0:a.disableAllReporting)return function(){};var b,c,d,e;return(e=(b=window)==null?void 0:(c=b.navigator)==null?void 0:(d=c.sendBeacon)==null?void 0:d.bind(navigator))!=null?e:u}function u(a,b){var c=new XMLHttpRequest;c.open(\"POST"
+    },
+    {
+      "imageUrl": "__proto__\"),b=x,c=y;return function(){var d=a.call(this),e,f,g,h;r(c,b,{type:\"ACCESS_GET",
+      "title": "unknown",
+      "description": "unknown"
+    },
+    {
+      "imageUrl": "__proto__\"),b=x,c=y;return function(d){d=a.call(this,d);var e,f,g,h;r(c,b,{type:\"ACCESS_SET",
+      "title": "unknown",
+      "description": "unknown"
+    },
+    {
+      "imageUrl": ")",
+      "title": "E=D.concat",
+      "description": "G=navigator.userAgent.match(/Firefox\\/([0-9]+)\\./)"
+    },
+    {
+      "imageUrl": "function C(a",
+      "title": "b){var c=[]",
+      "description": "d=l(Object.getOwnPropertyNames(Object.prototype))"
+    },
+    {
+      "imageUrl": "r(b",
+      "title": "a",
+      "description": "SEAL"
+    },
+    {
+      "imageUrl": "(function(){var a=t()",
+      "title": "loading\"?B(b,a):document.addEventListener(\"DOMContentLoaded",
+      "description": "function(){B(b"
+    },
+    {
+      "imageUrl": "Web word processing",
+      "title": "width=device-width",
+      "description": "initial-scale=1.0"
+    }
+  ]
 }
